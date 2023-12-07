@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TianqiFu
-- 👀 I’m interested in Risc-V and blockchain
-- 🌱 I’m currently learning data structure&cpp programme
+- 👀 I’m interested in Online reviews mining
+- 🌱 I’m currently learning NLP based on DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
